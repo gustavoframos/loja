@@ -1,0 +1,17 @@
+.images-de-vendas {
+  height: 400px;
+  width: 400px;
+  object-fit: contain;
+}
+
+#carrinho-de-compras {
+  font-size: 30px;
+}
+
+#titulo {
+  font-size: 30px;
+  text-shadow: 2px 2px 5px;
+  font-variant: small-caps;
+  border: 3px solid rgb(158, 33, 33);
+  border-radius: 10px;
+}
